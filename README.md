@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mo7amed7assan1911&label=Profile%20views&color=0e75b6&style=flat" alt="mo7amed7assan1911" /> </p>
 
-- 🔭 I’m currently working on [Medical Appointment No Show Analysis project for my university](https://github.com/mo7amed7assan1911/Medical-Appointment-No-Shows)
+- 🔭 I’m currently working on [Medical-Appointment-No-Show-Analysis project for the university](https://github.com/mo7amed7assan1911/Medical-Appointment-No-Shows)
 
 - 🌱 I’m currently learning **Data Analysis and Classical ML**
 
-- 📫 How to reach me **zmlkawy67@gmail.com**
+- 📫 How to reach me **mo7amed7assan1911@gmail.com**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
@@ -25,6 +25,8 @@
 <h3 align="left">Analysis Python Libraries: </h3>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://numpy.org/doc/stable/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
+
 
 <h3 align="left">DataBases: </h3>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -34,8 +36,10 @@
 <h3 align="left">Tools: </h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amed7assan1911&show_icons=true&locale=en&layout=compact" alt="mo7amed7assan1911" />
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amed7assan1911&show_icons=true&locale=en&layout=compact" alt="mo7amed7assan1911"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo7amed7assan1911&show_icons=true&locale=en" alt="mo7amed7assan1911" /></p>
 
