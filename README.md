@@ -4,7 +4,7 @@
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mo7amed7assan1911&label=Profile%20views&color=0e75b6&style=flat" alt="mo7amed7assan1911" /> </p>
 
-- 🤔 I’m currently open for: An `Intern` or a new `job opportunity`, this is MY [RESUME](https://drive.google.com/file/d/1ooc4zgVmcmQYkupDAAwFqbA6psAS-P4r/view?usp=sharing).
+- 🤔 I’m currently open for: An `Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ooc4zgVmcmQYkupDAAwFqbA6psAS-P4r/view?usp=sharing).
 
 - 🔭 I’m currently working on [Medical-Appointment-No-Show-Analysis project for the university](https://github.com/mo7amed7assan1911/Medical-Appointment-No-Shows)
 
