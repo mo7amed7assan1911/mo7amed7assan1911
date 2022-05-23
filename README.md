@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hassan</h1>
-<h3 align="center">Student at the faculty of engineering in computer science and automatic control department. Interested in Data Analyze and Data Science.</h3>
-
+<h3 align="center">Student at the faculty of engineering in computer science and automatic control department.</h3>
+<h3 align='center'> Interested in Data Analyze and Data Science.</h3>
+<hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mo7amed7assan1911&label=Profile%20views&color=0e75b6&style=flat" alt="mo7amed7assan1911" /> </p>
+
+- 🤔 I’m currently open for: An `Intern` or a new `job opportunity`, this is MY [RESUME](https://drive.google.com/file/d/1ooc4zgVmcmQYkupDAAwFqbA6psAS-P4r/view?usp=sharing).
 
 - 🔭 I’m currently working on [Medical-Appointment-No-Show-Analysis project for the university](https://github.com/mo7amed7assan1911/Medical-Appointment-No-Shows)
 
 - 🌱 I’m currently learning **Data Analysis and Classical ML**
 
-- 📫 How to reach me **mo7amed7assan1911@gmail.com**
+- 📫 Email me on  **mo7amed7assan1911@gmail.com**
 
-<h3 align="left">Contact with me:</h3>
+
+<h3 align="left">Contact with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-hassan-83805a1a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-hassan-83805a1a3" height="30" width="40" /></a>
 <a href="https://kaggle.com/mohamed_hassan1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed_hassan1911" height="30" width="40" /></a>
