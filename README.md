@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hassan</h1>
 <h3 align="center">Student at the faculty of engineering in computer science and automatic control department. Interested in Data Analyze and Data Science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mo7amed7assan1911&label=Profile%20views&color=0e75b6&style=flat" alt="mo7amed7assan1911" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mo7amed7assan1911&label=Profile%20views&color=0e75b6&style=flat" alt="mo7amed7assan1911" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo7amed7assan1911" alt="mo7amed7assan1911" /></a> </p>
 
