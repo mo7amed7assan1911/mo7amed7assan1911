@@ -16,7 +16,7 @@
 <h3 align="left">Contact with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-hassan-83805a1a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-hassan-83805a1a3" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohamed_hassan1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed_hassan1911" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mohamedhassan1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed_hassan1911" height="30" width="40" /></a>
 <a href="https://fb.com/mohamed.hassan725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.hassan725" height="30" width="40" /></a>
 <a href="https://instagram.com/mo7amed._.7assan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo7amed._.7assan" height="30" width="40" /></a>
 </p>
