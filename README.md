@@ -7,7 +7,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/55090589/169914432-5706daa3-8de9-40e9-8455-9f59f5da7d5d.gif)
 
-- 🤔 I’m currently open for: An `Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1MUPXpoDVfXjeO7EvCfeax7Ra3CYI5Q4c/view?usp=sharing).
+- 🤔 I’m currently open for: An `Intern` or a `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1MUPXpoDVfXjeO7EvCfeax7Ra3CYI5Q4c/view?usp=sharing).
 
 - 🔭 I’m currently working on [Medical-Appointment-No-Show-Analysis project for the university](https://github.com/mo7amed7assan1911/Medical-Appointment-No-Shows)
 
