@@ -7,7 +7,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/55090589/169914432-5706daa3-8de9-40e9-8455-9f59f5da7d5d.gif)
 
-- 🤔 I’m currently open for: An `Intern` or a `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1e82eBJ8fMCRo34jbRulH0GaKFX5EYl2v/view?usp=sharing).
+- 🤔 I’m currently open for: An `Intern` or a `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Zt16qeFxJN3b85n-g4yGKxEg9TE1ow02/view?usp=sharing).
 
 - 🌱 I’m currently learning **ML from ML Specializatin on coursera**
 
