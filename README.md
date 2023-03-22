@@ -9,7 +9,7 @@
 
 - 🤔 I’m currently open for: An `Intern` or a `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Zt16qeFxJN3b85n-g4yGKxEg9TE1ow02/view?usp=sharing).
 
-- 🌱 I’m currently learning **ML from ML Specializatin on coursera**
+- 🌱 I’m currently studing Graph neural networks and other Deep learning algorithms
 
 - 📫 Email me on  **mo7amed7assan1911@gmail.com**
 
