@@ -7,7 +7,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/55090589/169914432-5706daa3-8de9-40e9-8455-9f59f5da7d5d.gif)
 
-- 🤔 I’m currently open for: An `Intern` or a `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Zt16qeFxJN3b85n-g4yGKxEg9TE1ow02/view?usp=sharing).
+- 🤔 I’m currently open for: An `Intern` or a `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/16OE2RNVWL3h6gskzyCRy8BrfhmPwwilH/view?usp=sharing).
 
 - 🌱 I’m currently studing Graph neural networks and other Deep learning algorithms
 
